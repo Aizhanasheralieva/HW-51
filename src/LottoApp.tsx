@@ -1,6 +1,6 @@
 
 import './LottoApp.css';
-import React, {useState} from 'react';
+import {useState} from 'react';
 import LottoBall from './components/LottoBall/LottoBall';
 
 const LottoApp: React.FC = () => {
